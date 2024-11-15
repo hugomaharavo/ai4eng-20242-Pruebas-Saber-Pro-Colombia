@@ -1,4 +1,4 @@
-# Hugo Maharavo - ai4eng-20242-Pruebas-Saber-Pro-Colombia
+# Proyecto IA - Hugo Maharavo - ai4eng-20242-Pruebas-Saber-Pro-Colombia
 
 Nombres: Hugo MAHARAVO RABELOHATAONA <br>
 Cédula: 20AI87814 (numéro de pasaporte extranjero) <br>
